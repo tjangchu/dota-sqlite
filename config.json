@@ -1,0 +1,9 @@
+{
+    "url_leagues": "https://api.stratz.com/api/v1/league?take=50"
+    ,"file_leagues": "league_list.txt"
+    ,"league_id": 12720
+    ,"database": "data/dota.db"
+    ,"url_matches": "https://api.stratz.com/api/v1/league/{}/matches?take=500"
+    ,"url_details": "https://api.opendota.com/api/matches/{}"
+    ,"url_heros": "https://api.opendota.com/api/heroes"
+}
